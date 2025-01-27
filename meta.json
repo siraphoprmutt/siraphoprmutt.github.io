@@ -2,5 +2,5 @@
   "name": "Home",
   "description": "Home of Siraphop Nonpala",
   "banner": "/assets/images/banner.png",
-  "hide": true
+  "hide": false
 }
